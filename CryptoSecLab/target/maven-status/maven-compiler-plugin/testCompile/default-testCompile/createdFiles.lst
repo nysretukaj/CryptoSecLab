@@ -1,0 +1,5 @@
+sha1simplified\CollisionFinderTest.class
+rsa\RSAFactorAttackTest.class
+hmac\HmacSimplifiedSHA1Test.class
+sha1simplified\SimplifiedSHA1Test.class
+signature\RSASignatureServiceTest.class
